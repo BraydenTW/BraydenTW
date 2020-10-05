@@ -10,7 +10,7 @@ Right now, I am:
 
 ---
 
-I recently made a [simple CRM tool with React](https://github.com/BraydenTW/simple-react-crm). Give it a ⭐ if you liked it!
+I recently made an [Emoji-Searching App](https://github.com/BraydenTW/react-emoji-search) with ReactJS. Give it a ⭐ if you liked it!
 
 <br />
 
