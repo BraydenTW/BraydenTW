@@ -1,4 +1,4 @@
-## Hey 👋, I'm Brayden
+# Hey 👋, I'm Brayden
 
 ***... and I'm a Frontend Developer*** 😎
 
