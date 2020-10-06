@@ -15,3 +15,5 @@ I recently made an [Emoji-Searching App](https://github.com/BraydenTW/react-emoj
 <br />
 
 [![BraydenTW's Github Stats](https://github-readme-stats.vercel.app/api?username=braydentw)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=BraydenTW)
