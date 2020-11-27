@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [React-Emoji-Search](https://github.com/BraydenTW/react-emoji-search)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **brayden45.dev@gmail.com**
 
