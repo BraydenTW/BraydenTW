@@ -6,7 +6,6 @@
 <p align="center">- 🌱 I’m currently learning NextJS and the MERN stack.</p>
 <p align="center">- ⚡ I love listening to Lo-Fi beats when coding.</p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braydentw" alt="braydentw" /></a> </p>
 
 <p align="center">
 <a href="https://github.com/braydentw" target="_blank">
@@ -23,18 +22,20 @@
 </a>  
 </p>
 
-<div align="center">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braydentw" alt="braydentw" /></a> </p>
+
+<p align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=braydentw&theme=prussian&show_icons=true&count_private=true&hide_border=true">
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian">
   </a>
-</div>
+</p>
 
 <h2 align="center">Like my Work?</h2>
 <p align="center">
