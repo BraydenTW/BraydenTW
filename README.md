@@ -1,8 +1,8 @@
 # <div align="center">Hi 👋, I'm Brayden</a>
 
-### <div align="center">Developer • Designer • Core Member and Lead Designer 🤙 <a href="https://github.com/fiwl-js">@fiwl-js</a> and <a href="https://github.com/braydentw/create-html-boilerplate">Create HTML Boilerplate</div>  
+### <div align="center">Developer • Designer • Core Member and Lead Designer 🤙 <a href="https://github.com/fiwl-js">@fiwl-js</a></div>  
 <br>
-<p align="center">- 🔭 I’m currently working on <a href="https://github.com/fiwl-js/fiwl-js">FIWL.js</a></p>
+<p align="center">- 🔭 I’m currently working on <a href="https://github.com/fiwl-js/fiwl-js">FIWL.js</a> and <a href="https://github.com/braydentw/create-html-boilerplate">Create HTML Boilerplate</a></p>
 <p align="center">- 🌱 I’m currently learning NextJS and the MERN stack.</p>
 <p align="center">- ⚡ I love listening to Lo-Fi beats when coding.</p>
 <br>
