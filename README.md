@@ -7,7 +7,7 @@ I love building web apps in **React**, **indiehacking**, and exploring the world
 </p>
 
 <p>
-<a href="mailto:brayden45.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/braydentw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://dribbble.com/braydentw"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> <a href="https://dev.to/braydentw"><img src="https://img.shields.io/badge/dev.to-ccc?style=for-the-badge&logo=dev.to&logoColor=black"></a>
+<a href="mailto:brayden45.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/braydentw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://dribbble.com/braydentw"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> <a href="https://dev.to/braydentw"><img src="https://img.shields.io/badge/dev.to-ccc?style=for-the-badge&logo=dev.to&logoColor=black"></a> <a href="https://www.paypal.com/paypalme/braydentw"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
 
 <hr>
@@ -58,6 +58,11 @@ I love building web apps in **React**, **indiehacking**, and exploring the world
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BraydenTW&show_icons=true&theme=tokyonight&icon_color=6392DF">
+<details>
+  <summary>My Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=BraydenTW&show_icons=true&theme=tokyonight&icon_color=6392DF">
+</details>
+
+<hr />
 
 <a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
