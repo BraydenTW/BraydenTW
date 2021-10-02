@@ -43,13 +43,7 @@ I love building web apps in **React**, **indiehacking**, and exploring the world
 ### **Right now I'm learning...**
 
 <p>
-<img width="30" src="./assets/rust.svg">
-
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
