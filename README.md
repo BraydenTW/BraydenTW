@@ -7,7 +7,7 @@ I love building web apps in **React**, **indiehacking**, and exploring the world
 </p>
 
 <p>
-<a href="mailto:me@braydentw.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/braydentw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/braydentw/"><img src="https://img.shields.io/badge/linkedin-00457C?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://dribbble.com/braydentw"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> <a href="https://dev.to/braydentw"><img src="https://img.shields.io/badge/dev.to-ccc?style=for-the-badge&logo=dev.to&logoColor=black"></a>
+<a href="mailto:me@braydentw.com"><img src="https://img.shields.io/badge/Email%20Me-4c6dd3?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/braydentw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://dribbble.com/braydentw"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> <a href="https://dev.to/braydentw"><img src="https://img.shields.io/badge/dev.to-ccc?style=for-the-badge&logo=dev.to&logoColor=black"></a>
 </p>
 
 <hr>
