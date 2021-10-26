@@ -1,7 +1,7 @@
-![Hey I’m Brayden. I build and design things for the interweb.](./banner.png)
-
 <p>
-I love building web apps in **React**, **indiehacking**, and exploring the world of **open-source**. If you're interested in a future collaboration or just want to say "hi", feel free send me <a href="mailto:brayden45.dev@gmail.com">an email</a>.</i>
+Hey, I'm Brayden. I'm a Web Developer and Designer. I work with technologies like HTML, React, and NextJS. (Now I'm learning Vue!)
+  
+If you're interested in a future collaboration or just want to say "hi", feel free send me <a href="mailto:brayden45.dev@gmail.com">an email</a>.</i>
 </p>
 
 <p>
