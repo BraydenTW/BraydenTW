@@ -4,7 +4,6 @@
     "title": "Frontend Developer and Designer",
     "skills": ["HTML", "CSS", "JavaScript", "React", "NextJS", "Node", "Firebase", "Figma"],
     "what_i_am_learning": ["Vue", "Typescript", "and more NodeJS"],
-
     "socials": {
         "github": "github.com/braydentw",
         "dribbble": "dribbble.com/braydentw",
