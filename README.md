@@ -1,4 +1,4 @@
-![Brayden Wright - Frontend Developer and Designer](./og.png)
+![Brayden Wright - Frontend Developer and Designer](./banner.png)
 
 <hr>
 
